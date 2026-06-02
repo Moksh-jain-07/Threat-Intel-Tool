@@ -6,7 +6,7 @@ A Python-based threat intelligence tool that automates IOC (Indicator of Comprom
 
 ## Demo
 
-![Threat Intel Report](screenshots/Screenshot 2026-06-02 232214.png)
+![Threat Intel Report](./screenshots/threat-intel-report.png)
 
 > Report generated for `185.220.101.50` — identified as a **CRITICAL** Tor exit node with 100% abuse confidence and 16/91 malicious detections on VirusTotal.
 
